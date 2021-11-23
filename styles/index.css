@@ -57,6 +57,9 @@ section#card aside h4 {
 	font-size: 1.2em;
 	opacity: 0.6;
 }
+section#card aside h4 a:hover, section#card aside h4 a:active {
+	color: #00ff97;
+}
 
 section#card aside p {
 	white-space: pre-line;
